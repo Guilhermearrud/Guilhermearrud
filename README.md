@@ -1,7 +1,7 @@
 ## Olá! Seja bem-vindo(a) ao meu perfil! Me chamo Guilherme Lira!
 
 ```Typescript
-import Developer from 'Murilohim';
+import Developer from 'Guilhermearrud';
 
 class AboutMe extends Developer {
   name = 'Guilherme Lira';
